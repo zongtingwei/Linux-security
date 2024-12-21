@@ -6,7 +6,7 @@ Paper list for awesome linux security paper.
 | :--: | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2012 | [Identifying Linux bug fixing patches](https://ieeexplore.ieee.org/abstract/document/6227176) |   [N/A]            |
 | 2019 | [Linux patch management: with security assessment features](https://eprints.soton.ac.uk/433023/) |   [N/A]            |
-| 2024 | [CAP: A Context-Aware Neural Predictor for NAS](https://arxiv.org/abs/2406.02056)(Accepted by IJCAI 2024) |  [N/A]          |
+
 # Firewall
 | Year | Paper with link                                              | Code                                                         |
 | :--: | ------------------------------------------------------------ | ------------------------------------------------------------ |
