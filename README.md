@@ -47,7 +47,7 @@ Paper list for awesome linux security paper.
 | 2024 | [Ransomware detection on linux operating system using recurrent neural networks with binary opcode analysis](https://osf.io/preprints/osf/vzk3d) | [N/A]          |
 | 2024 | [A Novel Approach of LSTM-Based Ransomware Detection in the Linux Operating System Kernel](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172671742.26785099) |  [N/A]         |
 | 2021 | [Deep-Hook: A trusted deep learning-based framework for unknown malware detection and classification in Linux cloud environments](https://www.sciencedirect.com/science/article/pii/S0893608021003695) | [N/A]          |
-| 2021 | [Ransomware Detection using Machine Learning with eBPF](extension://mjdgandcagmikhlbjnilkmfnjeamfikk/https://ebpfangel.philippart.me/Ransomware_Detection_using_Machine_Learning_with_eBPF.pdf) |  [[Code]([https://github.com/jihan4431/CAP](https://github.com/TomasPhilippart/ebpfangel))]          |
+| 2021 | [Ransomware Detection using Machine Learning with eBPF](https://github.com/TomasPhilippart/ebpfangel) |  [[Code](https://github.com/TomasPhilippart/ebpfangel)]          |
 | 2020 | [Ransomware detection using random forest technique](https://www.sciencedirect.com/science/article/pii/S2405959520304756) | [N/A]          |
 | 2024 | [Ransomware Detection on Linux Using Machine Learning with Random Forest Algorithm](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171778770.06550236) |  [N/A]           |
 
